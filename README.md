@@ -1,1 +1,1 @@
-# SmartContracts
+# FTEC SmartContracts
